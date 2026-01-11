@@ -52,8 +52,14 @@
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .categories-cards a.card {
+    width: 340px;
+  }
+}
+
 @media screen and (min-width: 1440px) {
   .categories-cards a.card {
-  width: 281px;  
-}
+    width: 281px;
+  }
 }
