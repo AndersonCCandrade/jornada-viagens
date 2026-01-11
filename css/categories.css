@@ -1,5 +1,11 @@
 .categories{
-    margin-top: 88px;    
+    margin-top: 88px; 
+    align-items: center ;   
+}
+
+.categories .section-title {
+    width: 312px;
+    margin: 0 auto;
 }
 
 .categories-cards {
